@@ -1,1 +1,11 @@
-# Add plugins here
+# WSGI handler
+uWSGI==2.0.15
+
+# Sentry plugins
+sentry-plugins==8.19.0
+
+# Environment variables for Django
+django-environ==0.4.4
+
+# Redis didju
+redis>=2.10.3,<2.10.6
